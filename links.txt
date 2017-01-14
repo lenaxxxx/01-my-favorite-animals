@@ -1,0 +1,11 @@
+dog: 
+	https://s-media-cache-ak0.pinimg.com/736x/cb/d4/1f/cbd41fb83c06a915a79ed0ab9ca63789.jpg
+elephant:
+	http://www.livescience.com/images/i/000/036/988/original/elephants.jpg?interpolation=lanczos-none&fit=around%7C300:200&crop=300:200;*,*
+koala:
+	http://www.zooborns.com/.a/6a010535647bf3970b01b7c73d521e970b-800wi
+giant panda:
+	http://media4.s-nbcnews.com/j/newscms/2016_36/1685951/ss-160826-twip-05_8cf6d4cb83758449fd400c7c3d71aa1f.nbcnews-ux-2880-1000.jpg
+polar bear:
+	http://static.boredpanda.com/blog/wp-content/uploads/2016/02/cute-baby-polar-bear-day-photography-14__880.jpg
+
